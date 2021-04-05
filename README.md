@@ -1,5 +1,5 @@
 # CA06_KNN
-1. The Application
+The Application
 
 At scale, this would look like recommending products on Amazon, articles on Medium, movies on
 Netflix, or videos on YouTube. Although, we can be certain they all use more efficient means of making
